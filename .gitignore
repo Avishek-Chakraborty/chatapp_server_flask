@@ -1,0 +1,6 @@
+myevn/
+__pycache__/
+mdl_chat.pkl
+model.h5
+model.keras
+tokenizer.pkl
